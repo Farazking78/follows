@@ -25,7 +25,7 @@ def BANNER() -> None:
       | |  | | |/ /  _ < / _ \ / _ \/ __| __| |     
       | |  | |   <| |_) | (_) | (_) \__ \ |_| |____ 
 [bold white]      |_|  |_|_|\_\____/ \___/ \___/|___/\__|______|
-          [underline red]Free TikTok Followers - by Rozhak""", width=59, style="bold bright_black")
+          [underline red]Free TikTok Followers - by Faraz""", width=59, style="bold bright_black")
     )
     return None
 
